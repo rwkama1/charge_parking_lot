@@ -1,0 +1,16 @@
+{
+  "name": "charge-parking-lot",
+  "version": "1.0.0",
+  "description": "Calculate how much customers should be charged for the use of parking",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/charge_parking_lot"
+  },
+ 
+  "keywords": ["js","javascript","calculation","total","customer","charge","parking"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
