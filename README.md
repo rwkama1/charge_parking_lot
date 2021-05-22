@@ -2,7 +2,7 @@
 
 ## Description
 
-Calculate how much customers should be charged for the use of parking
+Calculate how much customers should be charged for the use of parking.
 The rates that are had are the following:
 The first two hours at USD 0.25 each.
 The next three at USD 0.20 each.
